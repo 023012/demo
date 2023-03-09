@@ -1,4 +1,6 @@
 # demo
 ## a
-$c
+- George Washington
+* John Adams
++ Thomas Jefferson
 ## b
